@@ -16,13 +16,17 @@ AI-powered ATS-friendly Resume Builder Skill for Claude that generates recruiter
 
 ---
 
-## Supported Roles
+
+# Supported Roles
 
 - Salesforce Developer
+- Salesforce Developer Fresher
 - React Developer
 - Frontend Developer
+- LWC Developer
 - Full Stack Developer
 - Software Engineer Fresher
+- AI Product Builder
 
 ---
 
